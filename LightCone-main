@@ -1,0 +1,8 @@
+LightCone-main/
+├── model/              # 模型核心
+│   ├── lightcone.py    # LightCone 模型
+│   └── modules.py      # 动态阈值、软约束、自洽校验
+├── train.py            # 训练入口
+├── test.py             # 测试与评估
+├── data/               # ARC 数据集
+└── README.md
